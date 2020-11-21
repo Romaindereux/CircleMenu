@@ -1,0 +1,12 @@
+*, ::before, ::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow-x:hidden;
+    background: #333;
+    height: 100vh;
+    font-family: Roboto, Helvetica, sans-serif;
+}
